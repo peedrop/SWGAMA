@@ -1,0 +1,25 @@
+.grupo{
+	border-bottom: 2px solid rgb(13, 58, 117);
+}
+
+.circle {
+	background-color: #aaa;
+	width: 100px;
+	height: 100px;
+	overflow: hidden;
+	position: relative;
+  }
+  
+  .circle img {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	  
+  }
+
+  #agrupamento {
+	border: 1px solid black;
+	padding: 20px;
+	border-radius: 10px;
+ }
+ 
